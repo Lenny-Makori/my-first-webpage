@@ -1,0 +1,11 @@
+h1{
+  background-color: yellow;
+  text-align: center;
+  text-decoration: underline;
+  color: red;
+  text-shadow: blue;
+}
+h2{
+  font-family: monospace;
+  color: orange;
+}
